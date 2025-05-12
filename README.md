@@ -2,7 +2,7 @@
 
 
 ## Objective
-Clean and prepare a real-world dataset containing patient appointment records to make it ready for analysis and visualization.
+Clean and prepare a real-world dataset containing customer personality records to make it ready for analysis and visualization.
 
 ---
 
